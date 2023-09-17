@@ -1,0 +1,19 @@
+{
+  "entityType" : "WIDGETS_BUNDLE",
+  "entity" : {
+    "alias" : "bat",
+    "description" : null,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "WIDGETS_BUNDLE",
+      "id" : "012abc80-551b-11ee-91e6-9d6138fe9e87"
+    },
+    "image" : null,
+    "name" : "BAT",
+    "title" : "BAT"
+  },
+  "widgets" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
