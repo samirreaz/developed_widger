@@ -19,7 +19,7 @@
     "description" : null,
     "descriptor" : {
       "type" : "latest",
-      "sizeX" : 7.5,
+      "sizeX" : 9,
       "sizeY" : 6.5,
       "resources" : [ {
         "url" : "https://cdn.jsdelivr.net/npm/chart.js"
