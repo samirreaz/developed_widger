@@ -1,0 +1,19 @@
+{
+  "entityType" : "WIDGETS_BUNDLE",
+  "entity" : {
+    "alias" : "joint_js",
+    "description" : null,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "WIDGETS_BUNDLE",
+      "id" : "7498f240-76db-11ee-8a88-9d6138fe9e87"
+    },
+    "image" : null,
+    "name" : "joint js",
+    "title" : "joint js"
+  },
+  "widgets" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
