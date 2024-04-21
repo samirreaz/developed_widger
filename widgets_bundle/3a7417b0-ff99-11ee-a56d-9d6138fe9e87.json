@@ -1,0 +1,19 @@
+{
+  "entityType" : "WIDGETS_BUNDLE",
+  "entity" : {
+    "alias" : "kustia_widgets",
+    "description" : null,
+    "externalId" : null,
+    "id" : {
+      "entityType" : "WIDGETS_BUNDLE",
+      "id" : "3a7417b0-ff99-11ee-a56d-9d6138fe9e87"
+    },
+    "image" : null,
+    "name" : "Kustia Widgets",
+    "title" : "Kustia Widgets"
+  },
+  "widgets" : [ ],
+  "attributes" : {
+    "SERVER_SCOPE" : [ ]
+  }
+}
